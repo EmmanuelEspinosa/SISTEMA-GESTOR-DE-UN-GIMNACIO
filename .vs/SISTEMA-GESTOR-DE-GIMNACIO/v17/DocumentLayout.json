@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manu\\source\\repos\\SISTEMA-GESTOR-DE-GIMNACIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98A686C5-EDBC-4C0D-8AFB-6C7944B8138F}|SISTEMA-GESTOR-DE-GIMNACIO\\SISTEMA-GESTOR-DE-GIMNACIO.csproj|c:\\users\\manu\\source\\repos\\sistema-gestor-de-gimnacio\\sistema-gestor-de-gimnacio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A686C5-EDBC-4C0D-8AFB-6C7944B8138F}|SISTEMA-GESTOR-DE-GIMNACIO\\SISTEMA-GESTOR-DE-GIMNACIO.csproj|solutionrelative:sistema-gestor-de-gimnacio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\source\\repos\\SISTEMA-GESTOR-DE-GIMNACIO\\SISTEMA-GESTOR-DE-GIMNACIO\\Program.cs",
+              "RelativeDocumentMoniker": "SISTEMA-GESTOR-DE-GIMNACIO\\Program.cs",
+              "ToolTip": "C:\\Users\\Manu\\source\\repos\\SISTEMA-GESTOR-DE-GIMNACIO\\SISTEMA-GESTOR-DE-GIMNACIO\\Program.cs",
+              "RelativeToolTip": "SISTEMA-GESTOR-DE-GIMNACIO\\Program.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAmwCkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:57:47.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
